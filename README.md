@@ -14,30 +14,30 @@ Just navigate to specific problem number directory and run `python solve_part_x.
 
 ## Status
 
-| Day | Name                                                           | Stars |
-| --- | -------------------------------------------------------------- | ----- |
-| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)        | ⭐⭐    |
-| 02  | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)     | ⭐⭐    |
-| 03  | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | ⭐⭐    |
-| 04  | [Camp Cleanup](https://adventofcode.com/2022/day/4)            | ⭐⭐    |
-| 05  |                                                                |       |
-| 06  |                                                                |       |
-| 07  |                                                                |       |
-| 08  |                                                                |       |
-| 09  |                                                                |       |
-| 10  |                                                                |       |
-| 11  |                                                                |       |
-| 12  |                                                                |       |
-| 13  |                                                                |       |
-| 14  |                                                                |       |
-| 15  |                                                                |       |
-| 16  |                                                                |       |
-| 17  |                                                                |       |
-| 18  |                                                                |       |
-| 19  |                                                                |       |
-| 20  |                                                                |       |
-| 21  |                                                                |       |
-| 22  |                                                                |       |
-| 23  |                                                                |       |
-| 24  |                                                                |       |
-| 25  |                                                                |       |
+| Day | Name                                                           | Solution                                                                                                                                                                                     | Stars |
+| --- | -------------------------------------------------------------- | --------                                                                                                                                                                                     | ----- |
+| 01  | [Calorie Counting](https://adventofcode.com/2022/day/1)        | [Part 1](https://github.com/reidemeister94/advent-of-code-2022/blob/main/1/solve_part_one.py), [Part 2](https://github.com/reidemeister94/advent-of-code-2022/blob/main/1/solve_part_two.py) |  ⭐⭐   |
+| 02  | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)     | [Part 1](https://github.com/reidemeister94/advent-of-code-2022/blob/main/2/solve_part_one.py), [Part 2](https://github.com/reidemeister94/advent-of-code-2022/blob/main/2/solve_part_two.py) |  ⭐⭐   |
+| 03  | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [Part 1](https://github.com/reidemeister94/advent-of-code-2022/blob/main/3/solve_part_one.py), [Part 2](https://github.com/reidemeister94/advent-of-code-2022/blob/main/3/solve_part_two.py) |  ⭐⭐   |
+| 04  | [Camp Cleanup](https://adventofcode.com/2022/day/4)            | [Part 1](https://github.com/reidemeister94/advent-of-code-2022/blob/main/4/solve_part_one.py), [Part 2](https://github.com/reidemeister94/advent-of-code-2022/blob/main/4/solve_part_two.py) |  ⭐⭐   |
+| 05  |                                                                |                                                                                                                                                                                              |        |
+| 06  |                                                                |                                                                                                                                                                                              |        |
+| 07  |                                                                |                                                                                                                                                                                              |        |
+| 08  |                                                                |                                                                                                                                                                                              |        |
+| 09  |                                                                |                                                                                                                                                                                              |        |
+| 10  |                                                                |                                                                                                                                                                                              |        |
+| 11  |                                                                |                                                                                                                                                                                              |        |
+| 12  |                                                                |                                                                                                                                                                                              |        |
+| 13  |                                                                |                                                                                                                                                                                              |        |
+| 14  |                                                                |                                                                                                                                                                                              |        |
+| 15  |                                                                |                                                                                                                                                                                              |        |
+| 16  |                                                                |                                                                                                                                                                                              |        |
+| 17  |                                                                |                                                                                                                                                                                              |        |
+| 18  |                                                                |                                                                                                                                                                                              |        |
+| 19  |                                                                |                                                                                                                                                                                              |        |
+| 20  |                                                                |                                                                                                                                                                                              |        |
+| 21  |                                                                |                                                                                                                                                                                              |        |
+| 22  |                                                                |                                                                                                                                                                                              |        |
+| 23  |                                                                |                                                                                                                                                                                              |        |
+| 24  |                                                                |                                                                                                                                                                                              |        |
+| 25  |                                                                |                                                                                                                                                                                              |        |
