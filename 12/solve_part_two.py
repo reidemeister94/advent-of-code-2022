@@ -122,8 +122,8 @@ def main(input_file: str = "input.txt"):
 
     for start in starts:
         solve(start=start, heightmap=heightmap, n_steps=0)
-        print("MIN STEPS:")
-        print(BEST - 1)
+    print("MIN STEPS:")
+    print(BEST - 1)
 
 
 if __name__ == "__main__":
